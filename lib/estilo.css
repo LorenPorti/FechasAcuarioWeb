@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One&family=BhuTuka+Expanded+One&family=Indie+Flower&family=Oleo+Script+Swash+Caps&display=swap');
+.row div {
+    background-color: #E6E2EB;
+    border: 1px solid black;
+}
+
+.azul {
+    color: blue;
+}
+
+.rating>span:hover:before {
+    content: "\2605";
+    position: absolute;
+}
+
+.grande {
+    font-size: xxx-large;
+    color: DarkGray;
+}
+
+.googlefont {
+    font-family: 'Indie Flower', cursive;
+    color: Red;
+}
+
+.googlefont2 {
+    font-family: 'Bhutuka Expanded One', cursive;
+    color: green;
+}
+
+.googlefont3 {
+    font-family: 'Oleo Script Swash Caps', cursive;
+    color: blue;
+}
+
+.googlefont4 {
+    font-family: 'Alumni Sans Inline One', cursive;
+    color: crimson;
+}
