@@ -2,12 +2,12 @@
     "short_name": "App",
     "name": "Nombre Completo de la App",
     "icons": [{
-            "src": "/ICOrespiracion.ico",
+            "src": "/fish2_sombra.png",
             "type": "image/png",
             "sizes": "192x192"
         },
         {
-            "src": "/ICOrespiracion.ico",
+            "src": "/fish2_sombra.png",
             "type": "image/png",
             "sizes": "512x512"
         }
