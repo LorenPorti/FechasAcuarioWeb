@@ -4,12 +4,12 @@
     "icons": [{
             "src": "/fish2.ico",
             "type": "icon",
-            "sizes": "64x64"
+            "sizes": "128x128"
         },
         {
             "src": "/fish2.ico",
             "type": "icon",
-            "sizes": "256x256"
+            "sizes": "512x512"
         }
     ],
     "start_url": "/",
