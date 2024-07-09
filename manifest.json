@@ -1,13 +1,13 @@
 {
-    "short_name": "App",
-    "name": "Nombre Completo de la App",
+    "short_name": "F-Acuario",
+    "name": "FECHAS ACUARIO",
     "icons": [{
-            "src": "/fish2.ico",
+            "src": "/fish2.png",
             "type": "icon",
             "sizes": "128x128"
         },
         {
-            "src": "/fish2.ico",
+            "src": "/fish2.png",
             "type": "icon",
             "sizes": "512x512"
         }
